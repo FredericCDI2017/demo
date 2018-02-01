@@ -6,6 +6,8 @@ public class HelloWorld {
 
 
 		System.out.println("bonjour");
+		
+		System.out.println("c'est parfait tous le monde");
 	}
 
 }
